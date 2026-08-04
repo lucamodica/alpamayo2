@@ -15,6 +15,10 @@ released inference path uses the trained VLM backbone to generate Chain-of-Causa
 samples future trajectories through the trained action expert. The CLI, notebook, and importable
 APIs in this repository run the real expert model.
 
+<p align="center">
+  <img src="./alpamayo2super_arch.png" alt="NVIDIA Alpamayo 2 Super">
+</p>
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)

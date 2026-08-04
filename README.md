@@ -25,7 +25,7 @@ APIs in this repository run the real expert model.
 - [Notebook Inference](#notebook-inference)
 - [Text Task Notebooks](#text-task-notebooks)
 - [Visualization API](#visualization-api)
-- [Tests](#tests)
+- [Tests](#inference-smoke-check)
 - [Project Structure](#project-structure)
 - [Support](#support)
 - [License](#license)

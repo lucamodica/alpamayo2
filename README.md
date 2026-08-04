@@ -4,6 +4,7 @@
 
 ### 34B Multi-Task Autonomous Vehicle Foundation Model
 
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Model-Alpamayo2--Super-blue)](https://huggingface.co/nvidia/Alpamayo2-Super)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE)
 
 </div>
